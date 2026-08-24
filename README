@@ -1,0 +1,37 @@
+# 📱 ContentPulse
+
+ContentPulse is a Streamlit-based Social Media Content Analyzer that analyzes uploaded PDF content and provides insights to improve clarity, interaction, and audience appeal.
+
+## 🌐 Live Application
+
+https://contentpulse.streamlit.app/
+
+## ✨ Features
+
+- 📄 Upload PDF documents
+- 🔍 Extract selectable text from PDFs using PyMuPDF
+- 📊 Calculate word count
+- 📝 Calculate average words per sentence
+- 💬 Detect questions
+- 🎯 Detect potential hook words
+- 🏷️ Detect hashtags
+- ⚡ Generate a ContentPulse engagement potential score
+- 💡 Provide content improvement recommendations
+- ⏳ Loading state during analysis
+- 🛡️ Basic error handling
+
+## 🛠️ Technology Stack
+
+- Python
+- Streamlit
+- PyMuPDF
+- Git
+- GitHub
+
+## 🚀 How to Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/nandinidhaka2023-a11y/contentpulse.git
+cd contentpulse
